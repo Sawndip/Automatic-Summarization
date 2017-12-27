@@ -5,4 +5,5 @@ The Algorithm works on the extraction of the most important sentences and removi
 phrases, unnecessary clauses and excessive examples.<br />
 The project was coded in C language.<br />
 **See the algorithm steps [here](https://github.com/YahyaAlaaMassoud/Automatic-Summarization/blob/master/Summarization%20Algorithm.pdf).**
+- The screenshot below shows the result of the summarization.
 ![Screenshot for the summariaztion result.](https://github.com/YahyaAlaaMassoud/Automatic-Summarization/blob/master/Screenshots/Test.png "Summarization Result")
