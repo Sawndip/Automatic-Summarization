@@ -1,0 +1,7 @@
+Summary
+
+.
+
+____________________________________________________________________
+- Powered by the Automatic Extraction-based Text Summarization tool.
+- Developed by Hesham Saleh & Yahya Alaa.

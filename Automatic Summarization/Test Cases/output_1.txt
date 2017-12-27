@@ -1,0 +1,10 @@
+Summary
+
+Four passenger airliners—which all departed from airports on the U. Two of the planes, American Airlines Flight 11 and United Airlines Flight 175, were crashed into the North and South towers, respectively, of the World Trade Center complex in New York City.
+ Within an hour and 42 minutes, both 110-story towers collapsed, with debris and the resulting fires causing partial or complete collapse of all other buildings in the World Trade Center complex, including the 47-story 7 World Trade Center tower, as well as significant damage to ten other large surrounding structures.
+ A third plane, American Airlines Flight 77, was crashed into the Pentagon (the headquarters of the United States Department of Defense) in Arlington County, Virginia, leading to a partial collapse in the Pentagon's western side.
+
+
+____________________________________________________________________
+- Powered by the Automatic Extraction-based Text Summarization tool.
+- Developed by Hesham Saleh & Yahya Alaa.
