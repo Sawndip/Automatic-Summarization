@@ -4,4 +4,4 @@ during a team project.<br />
 The Algorithm works on the extraction of the most important sentences and removing insignificant transition
 phrases, unnecessary clauses and excessive examples.<br />
 The project was coded in C language.<br />
-**See the algorithm steps [here](https://github.com/YahyaAlaaMassoud/Automatic-Summarization/blob/master/Summarization%20Algorithm.pdf){:target="_blank"}.**
+**See the algorithm steps [here](https://github.com/YahyaAlaaMassoud/Automatic-Summarization/blob/master/Summarization%20Algorithm.pdf).**
